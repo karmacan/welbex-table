@@ -1,0 +1,28 @@
+{
+  "name": "welbex-table",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@styled-jsx/plugin-sass": "^4.0.2",
+    "mobx": "^6.6.0",
+    "mobx-react-lite": "^3.4.0",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.52.3",
+    "styled-jsx": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.14",
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6",
+    "typescript": "^4.7.4"
+  }
+}
